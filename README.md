@@ -64,7 +64,7 @@ The current version creates several simulated security events and processes them
 
 Example output:
 
-
+![Security Event Analyzer Output](securityevents_analyzeroutput1.png)
 
 Home Lab Integration Roadmap
 
